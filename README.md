@@ -2,24 +2,6 @@
 
 This project involves analyzing the Netflix Titles dataset (`netflix_titles.csv`). The dataset contains information about Netflix shows, including titles, directors, cast, country of production, release year, and genres. The analysis focuses on understanding trends in release years, genre popularity, and content production by country.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Data](#data)
-- [Analysis Steps](#analysis-steps)
-  - [Data Loading](#data-loading)
-  - [Data Cleaning](#data-cleaning)
-  - [Simple Analysis](#simple-analysis)
-  - [Visualization](#visualization)
-- [Results](#results)
-  - [Shows Released Per Year](#shows-released-per-year)
-  - [Most Common Genres](#most-common-genres)
-  - [Top Content-Producing Countries](#top-content-producing-countries)
-- [Conclusion](#conclusion)
-- [Dependencies](#dependencies)
-- [License](#license)
-
 ## Introduction
 
 This project provides insights into the Netflix Shows dataset, focusing on identifying trends in the number of shows released per year, the most common genres, and the top countries producing content.
